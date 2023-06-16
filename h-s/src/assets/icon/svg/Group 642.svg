@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.855" height="89.855" viewBox="0 0 89.855 89.855">
+  <g id="Group_642" data-name="Group 642" transform="translate(9880.509 8955.33)">
+    <circle id="Ellipse_333" data-name="Ellipse 333" cx="44.928" cy="44.928" r="44.928" transform="translate(-9880.509 -8955.33)" fill="#3f6a51"/>
+    <g id="Group_517" data-name="Group 517" transform="translate(-9854.374 -8930.199)">
+      <rect id="Rectangle_108" data-name="Rectangle 108" width="37.194" height="37.194" rx="2" fill="none" stroke="#fff" stroke-width="2"/>
+      <g id="Rectangle_109" data-name="Rectangle 109" transform="translate(4.799 4.799)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="27.596" height="27.596" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="26.596" height="26.596" rx="1.5" fill="none"/>
+      </g>
+      <line id="Line_27" data-name="Line 27" y2="3.414" transform="translate(4.267 9.388)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_33" data-name="Line 33" y2="3.414" transform="translate(5.121 39.261) rotate(-90)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_29" data-name="Line 29" x1="3.599" y2="3.599" transform="translate(21.943 11.49)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_32" data-name="Line 32" x1="3.414" y2="3.414" transform="translate(25.605 22.191) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_30" data-name="Line 30" x1="3.599" y2="3.599" transform="translate(11.398 22.196)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_31" data-name="Line 31" x1="3.414" y2="3.414" transform="translate(14.812 11.49) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_28" data-name="Line 28" y2="3.414" transform="translate(4.267 24.751)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_34" data-name="Line 34" y2="3.414" transform="translate(29.019 39.261) rotate(-90)" fill="none" stroke="#fff" stroke-width="1"/>
+      <g id="Ellipse_27" data-name="Ellipse 27" transform="translate(13.198 13.198)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="5.399" cy="5.399" r="5.399" stroke="none"/>
+        <circle cx="5.399" cy="5.399" r="4.899" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

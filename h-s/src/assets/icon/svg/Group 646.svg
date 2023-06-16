@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.855" height="89.855" viewBox="0 0 89.855 89.855">
+  <g id="Group_646" data-name="Group 646" transform="translate(9246.886 8955.33)">
+    <circle id="Ellipse_330" data-name="Ellipse 330" cx="44.928" cy="44.928" r="44.928" transform="translate(-9246.886 -8955.33)" fill="#3f6a51"/>
+    <g id="Group_513" data-name="Group 513" transform="translate(-9221.787 -8935.025)">
+      <g id="Path_3278" data-name="Path 3278" transform="translate(5.241 10.699)" fill="none">
+        <path d="M.514,0H27.966l6.451,31.516H-5.241Z" stroke="none"/>
+        <path d="M 2.181844711303711 1.999998092651367 L -2.842910766601563 29.5157585144043 L 31.96604919433594 29.5157585144043 L 26.33367347717285 1.999998092651367 L 2.181844711303711 1.999998092651367 M 0.5139999389648438 -1.9073486328125e-06 L 27.96574974060059 -1.9073486328125e-06 L 34.41691207885742 31.5157585144043 L -5.2412109375 31.5157585144043 L 0.5139999389648438 -1.9073486328125e-06 Z" stroke="none" fill="#fff"/>
+      </g>
+      <text id="kG" transform="translate(10.92 30.639)" fill="#fff" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">Kg</tspan></text>
+      <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(13.728 -1)" fill="none" stroke="#fff" stroke-width="2">
+        <circle cx="6.101" cy="6.101" r="6.101" stroke="none"/>
+        <circle cx="6.101" cy="6.101" r="5.101" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

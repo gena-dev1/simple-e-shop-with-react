@@ -1,0 +1,18 @@
+<svg id="department" xmlns="http://www.w3.org/2000/svg" width="22" height="26" viewBox="0 0 22 26">
+  <path id="Path_1156" data-name="Path 1156" d="M27.958,26.4H6V6.27L16.979,2,27.958,6.27Z" transform="translate(-6 -2)" fill="#426d53"/>
+  <rect id="Rectangle_426" data-name="Rectangle 426" width="22" height="2" transform="translate(0 24)"/>
+  <rect id="Rectangle_427" data-name="Rectangle 427" width="4" height="6" transform="translate(9 20)" fill="#fff"/>
+  <g id="Group_292" data-name="Group 292" transform="translate(3.05 5.49)">
+    <rect id="Rectangle_428" data-name="Rectangle 428" width="4" height="3" transform="translate(11.95 9.51)" fill="#fff"/>
+    <rect id="Rectangle_429" data-name="Rectangle 429" width="4" height="3" transform="translate(5.95 9.51)" fill="#fff"/>
+    <rect id="Rectangle_430" data-name="Rectangle 430" width="4" height="3" transform="translate(-0.05 9.51)" fill="#fff"/>
+    <rect id="Rectangle_431" data-name="Rectangle 431" width="4" height="3" transform="translate(11.95 14.51)" fill="#fff"/>
+    <rect id="Rectangle_432" data-name="Rectangle 432" width="4" height="3" transform="translate(-0.05 14.51)" fill="#fff"/>
+    <rect id="Rectangle_433" data-name="Rectangle 433" width="4" height="3" transform="translate(11.95 4.51)" fill="#fff"/>
+    <rect id="Rectangle_434" data-name="Rectangle 434" width="4" height="3" transform="translate(5.95 4.51)" fill="#fff"/>
+    <rect id="Rectangle_435" data-name="Rectangle 435" width="4" height="3" transform="translate(-0.05 4.51)" fill="#fff"/>
+    <rect id="Rectangle_436" data-name="Rectangle 436" width="4" height="4" transform="translate(11.95 -0.49)" fill="#fff"/>
+    <rect id="Rectangle_437" data-name="Rectangle 437" width="4" height="4" transform="translate(5.95 -0.49)" fill="#fff"/>
+    <rect id="Rectangle_438" data-name="Rectangle 438" width="4" height="4" transform="translate(-0.05 -0.49)" fill="#fff"/>
+  </g>
+</svg>

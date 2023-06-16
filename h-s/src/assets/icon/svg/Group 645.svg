@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.855" height="89.855" viewBox="0 0 89.855 89.855">
+  <g id="Group_645" data-name="Group 645" transform="translate(9405.291 8955.33)">
+    <circle id="Ellipse_331" data-name="Ellipse 331" cx="44.928" cy="44.928" r="44.928" transform="translate(-9405.291 -8955.33)" fill="#3f6a51"/>
+    <g id="Group_511" data-name="Group 511" transform="translate(-9340.354 -8902.229) rotate(90)">
+      <path id="Path_3258" data-name="Path 3258" d="M0,0,.113,40.229" transform="translate(7.601 0.787)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_3252" data-name="Path 3252" d="M0,0,7.617,7.668,14.466,0" transform="translate(0 33.528)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_3253" data-name="Path 3253" d="M0,7.668,7.617,0l6.85,7.668" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Rectangle_974" data-name="Rectangle 974" transform="translate(-9337.504 -8933.375) rotate(90)" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="3 3">
+      <rect width="24.384" height="45.72" stroke="none"/>
+      <rect x="1.5" y="1.5" width="21.384" height="42.72" fill="none"/>
+    </g>
+  </g>
+</svg>

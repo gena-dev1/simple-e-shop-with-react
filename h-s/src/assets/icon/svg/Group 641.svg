@@ -1,0 +1,16 @@
+<svg id="Group_641" data-name="Group 641" xmlns="http://www.w3.org/2000/svg" width="55.221" height="74.202" viewBox="0 0 55.221 74.202">
+  <g id="filing_cabinet" transform="translate(0 0)">
+    <rect id="Rectangle_490" data-name="Rectangle 490" width="6.903" height="3.451" transform="translate(6.903 70.751)" fill="#263238"/>
+    <rect id="Rectangle_491" data-name="Rectangle 491" width="6.903" height="3.451" transform="translate(41.415 70.751)" fill="#263238"/>
+    <path id="Path_1268" data-name="Path 1268" d="M8,68.574V9.9A6.923,6.923,0,0,1,14.9,3H56.318a6.923,6.923,0,0,1,6.9,6.9V68.574a6.923,6.923,0,0,1-6.9,6.9H14.9A6.923,6.923,0,0,1,8,68.574Z" transform="translate(-8 -3)" fill="#426d53"/>
+    <path id="Path_1269" data-name="Path 1269" d="M12,24.256V8.726A1.63,1.63,0,0,1,13.726,7H51.69a1.63,1.63,0,0,1,1.726,1.726V24.256Z" transform="translate(-5.097 -0.097)" fill="#f9fffd"/>
+    <rect id="Rectangle_492" data-name="Rectangle 492" width="41.415" height="17.256" transform="translate(6.903 27.61)" fill="#f9fffd"/>
+    <path id="Path_1270" data-name="Path 1270" d="M12,46.531V31H53.415V46.531a1.63,1.63,0,0,1-1.726,1.726H13.726A1.63,1.63,0,0,1,12,46.531Z" transform="translate(-5.097 17.318)" fill="#f9fffd"/>
+    <rect id="Rectangle_493" data-name="Rectangle 493" width="13.805" height="3.451" transform="translate(20.708 13.805)" fill="#426d53"/>
+    <rect id="Rectangle_494" data-name="Rectangle 494" width="13.805" height="3.451" transform="translate(20.708 34.513)" fill="#426d53"/>
+    <rect id="Rectangle_495" data-name="Rectangle 495" width="13.805" height="3.451" transform="translate(20.708 55.22)" fill="#426d53"/>
+  </g>
+  <ellipse id="Ellipse_310" data-name="Ellipse 310" cx="2.51" cy="2.51" rx="2.51" ry="2.51" transform="translate(35.141 13.29)" fill="#426d53"/>
+  <ellipse id="Ellipse_311" data-name="Ellipse 311" cx="2.51" cy="2.51" rx="2.51" ry="2.51" transform="translate(35.141 33.838)" fill="#426d53"/>
+  <ellipse id="Ellipse_312" data-name="Ellipse 312" cx="2.51" cy="2.51" rx="2.51" ry="2.51" transform="translate(35.141 54.386)" fill="#426d53"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="filing_cabinet" xmlns="http://www.w3.org/2000/svg" width="22" height="29.563" viewBox="0 0 22 29.563">
+  <rect id="Rectangle_490" data-name="Rectangle 490" width="2.75" height="1.375" transform="translate(2.75 28.188)" fill="#263238"/>
+  <rect id="Rectangle_491" data-name="Rectangle 491" width="2.75" height="1.375" transform="translate(16.5 28.188)" fill="#263238"/>
+  <path id="Path_1268" data-name="Path 1268" d="M8,29.125V5.75A2.758,2.758,0,0,1,10.75,3h16.5A2.758,2.758,0,0,1,30,5.75V29.125a2.758,2.758,0,0,1-2.75,2.75H10.75A2.758,2.758,0,0,1,8,29.125Z" transform="translate(-8 -3)" fill="#426d53"/>
+  <path id="Path_1269" data-name="Path 1269" d="M12,13.875V7.687A.65.65,0,0,1,12.687,7H27.812a.65.65,0,0,1,.688.688v6.188Z" transform="translate(-9.25 -4.25)" fill="#fff"/>
+  <rect id="Rectangle_492" data-name="Rectangle 492" width="16.5" height="6.875" transform="translate(2.75 11)" fill="#fff"/>
+  <path id="Path_1270" data-name="Path 1270" d="M12,37.187V31H28.5v6.187a.65.65,0,0,1-.687.688H12.687A.65.65,0,0,1,12,37.187Z" transform="translate(-9.25 -11.75)" fill="#fff"/>
+  <rect id="Rectangle_493" data-name="Rectangle 493" width="5.5" height="1.375" transform="translate(8.25 5.5)" fill="#426d53"/>
+  <rect id="Rectangle_494" data-name="Rectangle 494" width="5.5" height="1.375" transform="translate(8.25 13.75)" fill="#426d53"/>
+  <rect id="Rectangle_495" data-name="Rectangle 495" width="5.5" height="1.375" transform="translate(8.25 22)" fill="#426d53"/>
+</svg>
